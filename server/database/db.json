@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "andre1234",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$rbuAWz+oAtGxRcl1HHkGxA$0fn0KpXggLJPBsIr7E9BFuEl/hB0y2ZFip2jPf+1lro",
+      "posts": [],
+      "following": [],
+      "role": "reader"
+    },
+    {
+      "id": 2,
+      "username": "andre123",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$IDHz8W7P0bJf5Z5E+ax0yg$HIZrsdu44w6ecwYRo/d04/w6mKcR11v3YuRQw4RfNg4",
+      "posts": [
+        {
+          "id": 111,
+          "text": "gustavo is lindoasdasdas"
+        }
+      ],
+      "following": [
+        "andre"
+      ],
+      "role": "reader"
+    },
+    {
+      "id": 3,
+      "username": "andre12444",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$gsLvuzJpRvqeOsJxoCcoGw$/+GzOpKRmjUS6DR1UAkZ2mG3wuFTMTuyFLNzv92PGA4",
+      "posts": [],
+      "following": [],
+      "role": "reader"
+    },
+    {
+      "id": 4,
+      "username": "andre12a444",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$fojDCAfJgLjIWtExVibrhw$7n+FW/ypX7T5ijOIlbtO+ajwLXzFdpRTeTzouBV9sF0",
+      "posts": [],
+      "following": [],
+      "role": "reader"
+    },
+    {
+      "id": 5,
+      "username": "andre12aaa444",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$29j98YJMvobiRvd0aQJAfw$TVu1U8jdgn11HzPR0y+rsJCjxCowupU7lv+46ENFosU",
+      "posts": [],
+      "following": [],
+      "role": "reader"
+    },
+    {
+      "id": 6,
+      "username": "andare12aaa444",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$eWu65Ro06HJPgjMQ1L9p0A$kVCjVUoW62+cWuOk6WhIsKA+a+iRiHA7H4QcjLz5IlI",
+      "posts": [],
+      "following": [],
+      "role": "reader"
+    },
+    {
+      "id": 7,
+      "username": "andare1d2aaa444",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$0nnGUuVql26jpSnJXO1U/Q$Rde7EgKDUZ1cGI4aiYdeI73/zb+6Wy8zcd0zKndi0NY",
+      "posts": [],
+      "following": [],
+      "role": "reader"
+    },
+    {
+      "id": 8,
+      "username": "test",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$tqlrL8UctrQTRgdGEUjeXg$PkE1CV/lwJYvU0twlfoze2ZLtOfNIZO2l5s2k3PoZds",
+      "posts": [],
+      "following": [],
+      "role": "reader"
+    },
+    {
+      "id": 9,
+      "username": "andre",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$UjA/Tblw6ToQe9B/D6lU4Q$gUH2O8ZMre1JKfobzGPWHC0iFA15juH2hg7XDCCA2uI",
+      "posts": [
+        {
+          "id": 4,
+          "text": "test"
+        }
+      ],
+      "following": [
+        "andre123",
+        "andre123",
+        "andre123",
+        "andre123",
+        "andre123",
+        "andre"
+      ],
+      "role": "admin"
+    }
+  ]
+}
